@@ -1,6 +1,6 @@
 # Wizards
 
-<img source="Assets/Textures/logo.png" width="200px" />
+<img source="Assets/Textures/logo.png" width="50px" />
 
 Un projet développé dans le cadre de l'UE LIFProjet de la fac Lyon 1.
 
